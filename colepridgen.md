@@ -1,6 +1,6 @@
 ## TestForBold
-[Test for italics]
-<span style="color: red;">Red Test</span>
+<u>Underline</u>
+$\color{red}{\textsf{Test Red}}$
 
 I have already gained experience with github repositories from last semester, but I have not learned how to color specific text, only underline and bold
 
